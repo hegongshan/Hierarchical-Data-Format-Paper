@@ -8,3 +8,4 @@
 
 * [2011 EDBT/ICDT] **An Overview of the HDF5 Technology Suite and its Applications**. [[PDF](http://icdt.tu-dortmund.de/proceedings/edbticdt2011proc/WebProceedings/papers/workshops/arraydb_workshop/a5-folk.pdf)]
 
+* [2010 IASDS] **Tuning HDF5 for Lustre File Systems**. [[PDF](https://docs.hdfgroup.org/archive/support/pubs/papers/howison_hdf5_lustre_iasds2010.pdf)]
