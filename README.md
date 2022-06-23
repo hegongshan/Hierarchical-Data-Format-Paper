@@ -10,5 +10,15 @@
 
 * [2010 IASDS] **Tuning HDF5 for Lustre File Systems**. [[PDF](https://docs.hdfgroup.org/archive/support/pubs/papers/howison_hdf5_lustre_iasds2010.pdf)]
 
+#### Index & Query
+
 * [2006 SSDBM] **HDF5-FastQuery:
 Accelerating Complex Queries on HDF Datasets using Fast Bitmap Indices**. [[PDF](https://escholarship.org/content/qt7bg8d220/qt7bg8d220.pdf)]
+
+* [2011 SciDAC] **ExaHDF5: An I/O Platform for Exascale Data Models, Analysis and
+Performance**. [[PDF](https://www.mcs.anl.gov/uploads/cels/papers/scidac11/final/Prabhat.pdf)]
+
+* [2011 SC] **Parallel Index and Query for Large Scale Data Analysis**. [[PDF](https://cseweb.ucsd.edu/~jchou/publication/FQ_SC11.pdf)]
+
+* [2018 ICDE] **ArrayBridge: Interweaving declarative array processing
+in SciDB with imperative HDF5-based programs**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509313)]
