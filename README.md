@@ -12,6 +12,8 @@
 
 #### Index & Query
 
+* [2019 SC] **MIQS: Metadata Indexing and Querying Service for Self-Describing File Formats**. [[PDF](https://www.researchgate.net/profile/Wei-Zhang-481/publication/337109549_MIQS_metadata_indexing_and_querying_service_for_self-describing_file_formats/links/5dd56df0a6fdcc37897d7774/MIQS-metadata-indexing-and-querying-service-for-self-describing-file-formats.pdf)]
+
 * [2006 SSDBM] **HDF5-FastQuery:
 Accelerating Complex Queries on HDF Datasets using Fast Bitmap Indices**. [[PDF](https://escholarship.org/content/qt7bg8d220/qt7bg8d220.pdf)]
 
