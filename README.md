@@ -17,6 +17,9 @@
 * [2018 ICDE] **ArrayBridge: Interweaving declarative array processing
 in SciDB with imperative HDF5-based programs**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509313)]
 
+* [2020 CSCI] **Coupling Storage Systems and Self-Describing Data
+Formats for Global Metadata Management**. [[PDF](https://american-cse.org/sites/csci2020proc/pdfs/CSCI2020-6SccvdzjqC7bKupZxFmCoA/762400b224/762400b224.pdf)]
+
 * [2021 Cray User Group] **h5bench: HDF5 I/O Kernel Suite for Exercising HPC I/O Patterns**. [[PDF](https://cug.org/proceedings/cug2021_proceedings/includes/files/pap103s2-file1.pdf)] [[Slides](https://cug.org/proceedings/cug2021_proceedings/includes/files/pap103s2-file2.pdf)]
 
 * [2022 TPDS] **Accelerating HDF5 I/O for Exascale Using DAOS**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9490299)] [[Codes](https://github.com/HDFGroup/vol-daos)]
@@ -32,3 +35,5 @@ Performance**. [[PDF](https://www.mcs.anl.gov/uploads/cels/papers/scidac11/final
 * [2011 SC] **Parallel Index and Query for Large Scale Data Analysis**. [[PDF](https://cseweb.ucsd.edu/~jchou/publication/FQ_SC11.pdf)]
 
 * [2019 SC] **MIQS: Metadata Indexing and Querying Service for Self-Describing File Formats**. [[PDF](https://www.researchgate.net/profile/Wei-Zhang-481/publication/337109549_MIQS_metadata_indexing_and_querying_service_for_self-describing_file_formats/links/5dd56df0a6fdcc37897d7774/MIQS-metadata-indexing-and-querying-service-for-self-describing-file-formats.pdf)]
+
+* [2020 SC] **Semantic Search for Self-describing Scientific Data Formats**. [[PDF](https://sc20.supercomputing.org/proceedings/tech_poster/poster_files/rpost158s2-file3.pdf)] [[Poster](https://sc20.supercomputing.org/proceedings/tech_poster/poster_files/rpost158s2-file2.pdf)]
