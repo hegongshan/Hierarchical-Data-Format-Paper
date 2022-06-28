@@ -1,9 +1,10 @@
 ### Hierarchical Data Format version 5 (HDF5)
 
+> Self-Describing Data Format (SDDF)
+
 * [2010] **Accessing HDF5 Files via SSHFS (FUSE)**. [[PDF](https://docs.hdfgroup.org/archive/support/pubs/papers/2010-11_FUSEPerformanceReport-final.pdf)]
 
-* [2010 IASDS] **Tuning HDF5 for Lustre File Systems**. [[PDF]
-(https://docs.hdfgroup.org/archive/support/pubs/papers/howison_hdf5_lustre_iasds2010.pdf)]
+* [2010 IASDS] **Tuning HDF5 for Lustre File Systems**. [[PDF](https://docs.hdfgroup.org/archive/support/pubs/papers/howison_hdf5_lustre_iasds2010.pdf)]
 
 * [2011 EDBT/ICDT] **An Overview of the HDF5 Technology Suite and its Applications**. [[PDF](http://icdt.tu-dortmund.de/proceedings/edbticdt2011proc/WebProceedings/papers/workshops/arraydb_workshop/a5-folk.pdf)]
 
@@ -15,6 +16,8 @@
 
 * [2018 ICDE] **ArrayBridge: Interweaving declarative array processing
 in SciDB with imperative HDF5-based programs**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509313)]
+
+* [2021 Cray User Group] **h5bench: HDF5 I/O Kernel Suite for Exercising HPC I/O Patterns**. [[PDF](https://cug.org/proceedings/cug2021_proceedings/includes/files/pap103s2-file1.pdf)] [[Slides](https://cug.org/proceedings/cug2021_proceedings/includes/files/pap103s2-file2.pdf)]
 
 * [2022 TPDS] **Accelerating HDF5 I/O for Exascale Using DAOS**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9490299)] [[Codes](https://github.com/HDFGroup/vol-daos)]
 
