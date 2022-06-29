@@ -26,6 +26,8 @@ Formats for Global Metadata Management**. [[PDF](https://american-cse.org/sites/
 
 * [2022 TPDS] **Accelerating HDF5 I/O for Exascale Using DAOS**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9490299)] [[Codes](https://github.com/HDFGroup/vol-daos)]
 
+* [2022 TPDS] **Transparent Asynchronous Parallel I/O Using Background Threads**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9459479)]
+
 #### Index & Query
 
 * [2006 SSDBM] **HDF5-FastQuery:
