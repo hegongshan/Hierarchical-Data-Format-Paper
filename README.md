@@ -20,6 +20,8 @@ in SciDB with imperative HDF5-based programs**. [[PDF](https://ieeexplore.ieee.o
 * [2020 CSCI] **Coupling Storage Systems and Self-Describing Data
 Formats for Global Metadata Management**. [[PDF](https://american-cse.org/sites/csci2020proc/pdfs/CSCI2020-6SccvdzjqC7bKupZxFmCoA/762400b224/762400b224.pdf)]
 
+* [2020 JCST] **ExaHDF5: Delivering Efficient Parallel I/O on Exascale Computing Systems**. [[PDF](https://jcst.ict.ac.cn/fileup/1000-9000/PDF/2020-1-9-9822.pdf)]
+
 * [2021 Cray User Group] **h5bench: HDF5 I/O Kernel Suite for Exercising HPC I/O Patterns**. [[PDF](https://cug.org/proceedings/cug2021_proceedings/includes/files/pap103s2-file1.pdf)] [[Slides](https://cug.org/proceedings/cug2021_proceedings/includes/files/pap103s2-file2.pdf)]
 
 * [2022 TPDS] **Accelerating HDF5 I/O for Exascale Using DAOS**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9490299)] [[Codes](https://github.com/HDFGroup/vol-daos)]
@@ -29,8 +31,7 @@ Formats for Global Metadata Management**. [[PDF](https://american-cse.org/sites/
 * [2006 SSDBM] **HDF5-FastQuery:
 Accelerating Complex Queries on HDF Datasets using Fast Bitmap Indices**. [[PDF](https://escholarship.org/content/qt7bg8d220/qt7bg8d220.pdf)]
 
-* [2011 SciDAC] **ExaHDF5: An I/O Platform for Exascale Data Models, Analysis and
-Performance**. [[PDF](https://www.mcs.anl.gov/uploads/cels/papers/scidac11/final/Prabhat.pdf)]
+* [2011 SciDAC] **ExaHDF5: An I/O Platform for Exascale Data Models, Analysis and Performance**. [[PDF](https://www.mcs.anl.gov/uploads/cels/papers/scidac11/final/Prabhat.pdf)]
 
 * [2011 SC] **Parallel Index and Query for Large Scale Data Analysis**. [[PDF](https://cseweb.ucsd.edu/~jchou/publication/FQ_SC11.pdf)]
 
