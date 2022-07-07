@@ -40,3 +40,7 @@ Accelerating Complex Queries on HDF Datasets using Fast Bitmap Indices**. [[PDF]
 * [2019 SC] **MIQS: Metadata Indexing and Querying Service for Self-Describing File Formats**. [[PDF](https://www.researchgate.net/profile/Wei-Zhang-481/publication/337109549_MIQS_metadata_indexing_and_querying_service_for_self-describing_file_formats/links/5dd56df0a6fdcc37897d7774/MIQS-metadata-indexing-and-querying-service-for-self-describing-file-formats.pdf)]
 
 * [2020 SC] **Semantic Search for Self-describing Scientific Data Formats**. [[PDF](https://sc20.supercomputing.org/proceedings/tech_poster/poster_files/rpost158s2-file3.pdf)] [[Poster](https://sc20.supercomputing.org/proceedings/tech_poster/poster_files/rpost158s2-file2.pdf)]
+
+### Benchmark
+
+* [2021 Cray User Group] **h5bench: HDF5 I/O Kernel Suite for Exercising HPC I/O Patterns**. [[PDF](https://cug.org/proceedings/cug2021_proceedings/includes/files/pap103s2-file1.pdf)] [[Slides](https://cug.org/proceedings/cug2021_proceedings/includes/files/pap103s2-file2.pdf)]
