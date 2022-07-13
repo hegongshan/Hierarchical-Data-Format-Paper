@@ -12,6 +12,8 @@
 
 * [2016 Cray User Group] **H5Spark: Bridging the I/O Gap between Spark and Scientific Data Formats on HPC Systems**. [[PDF](https://cug.org/proceedings/cug2016_proceedings.orig/includes/files/pap137.pdf)] [[Slides](https://cug.org/proceedings/cug2016_proceedings.orig/includes/files/pap137-file2.pdf)]
 
+* [2016 HiPC] **Data Elevator: Low-contention Data Movement in Hierarchical Storage System**. [[PDF](https://sdm.lbl.gov/pdc/pubs/201612_DataElevator_HiPC2016_Bin_Byna.pdf)] [[Slides](https://sdm.lbl.gov/~sbyna/research/papers/201612_DataElevator_HiPC2016_slides.pdf)]
+
 * [2017 Cray User Group] **Tuning HDF5 Subfiling Performance on Parallel File Systems**. [[PDF](https://cug.org/proceedings/cug2017_proceedings/includes/files/pap106s2-file1.pdf)] [[Slides](https://cug.org/proceedings/cug2017_proceedings/includes/files/pap106s2-file2.pdf)]
 
 * [2018 ICDE] **ArrayBridge: Interweaving declarative array processing
