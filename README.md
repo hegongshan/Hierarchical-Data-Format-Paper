@@ -30,6 +30,8 @@ Formats for Global Metadata Management**. [[PDF](https://american-cse.org/sites/
 
 * [2022 TPDS] **Transparent Asynchronous Parallel I/O Using Background Threads**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9459479)]
 
+* [2022 CCGrid] **HDF5 Cache VOL: Efficient and Scalable Parallel I/O through Caching Data on Node-local Storage**. [[PDF](https://sdm.lbl.gov/~sbyna/research/papers/2022/2022-CCGrid-Cache_VOL.pdf)]
+
 #### Index & Query
 
 * [2006 SSDBM] **HDF5-FastQuery:
