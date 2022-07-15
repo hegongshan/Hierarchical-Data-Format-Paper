@@ -30,6 +30,8 @@
 
 * [2016 HiPC] **Data Elevator: Low-contention Data Movement in Hierarchical Storage System**. [[PDF](https://sdm.lbl.gov/pdc/pubs/201612_DataElevator_HiPC2016_Bin_Byna.pdf)] [[Slides](https://sdm.lbl.gov/~sbyna/research/papers/201612_DataElevator_HiPC2016_slides.pdf)]
 
+* [2018 Big Data] **ARCHIE: Data Analysis Acceleration with Array Caching in Hierarchical Storage**. [[PDF](https://sdm.lbl.gov/pdc/pubs/201812-BigData-ARCHIE.pdf)]
+
 * [2022 CCGrid] **HDF5 Cache VOL: Efficient and Scalable Parallel I/O through Caching Data on Node-local Storage**. [[PDF](https://sdm.lbl.gov/~sbyna/research/papers/2022/2022-CCGrid-Cache_VOL.pdf)]
 
 ### Query
