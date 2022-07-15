@@ -32,7 +32,7 @@
 
 * [2022 CCGrid] **HDF5 Cache VOL: Efficient and Scalable Parallel I/O through Caching Data on Node-local Storage**. [[PDF](https://sdm.lbl.gov/~sbyna/research/papers/2022/2022-CCGrid-Cache_VOL.pdf)]
 
-#### Query
+### Query
 
 * [2006 SSDBM] **HDF5-FastQuery: Accelerating Complex Queries on HDF Datasets using Fast Bitmap Indices**. [[PDF](https://escholarship.org/content/qt7bg8d220/qt7bg8d220.pdf)]
 
